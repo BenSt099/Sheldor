@@ -1,2 +1,2 @@
 # Sheldor
-Simple Attempt to build an online Editor for various Languages on top of a docker container.
+Simple Attempt to build a platform-independent solution for running Netwide Assembler-programs on top of a docker container.
