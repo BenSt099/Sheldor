@@ -1,4 +1,5 @@
 FROM alpine:latest
+ADD FOLDER /linux-ex/
 RUN apt install build-essential
 EXPOSE 9000
 LABEL version=”1.0”
