@@ -1,0 +1,17 @@
+IMPORT {
+    java::path_to_java_extension
+}
+
+TESTFILES {
+    files/1.test
+    files/2.test
+    files/3.test
+}
+
+GENERAL {
+    generate_report::false
+}
+
+
+
+
